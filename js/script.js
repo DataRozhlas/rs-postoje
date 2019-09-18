@@ -1,10 +1,16 @@
 ﻿import "./byeie"; // loučíme se s IE
 
 import { data } from "./stats";
-import { qu } from "./qu";
+import { qu, grps } from "./qu";
 
 let sbox = '<select id="q-sel">'
+let gr = '';
 Object.keys(qu).forEach(v => {
+  let qid = v.split('_')[1].slice(0,-1)
+  if (qid != gr) {
+    gr = qid
+    sbox += ' <optgroup label="' + grps[gr] + '">'
+  }
   sbox +=  '<option value="' + v + '">' + qu[v] + '</option>'
 })
 document.getElementById('seldiv').innerHTML = sbox + '</select>';

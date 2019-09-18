@@ -1,4 +1,4 @@
-export let qu = {'r01_a1': 'Školy by měly učit děti uznávat autoritu.',
+export const qu = {'r01_a1': 'Školy by měly učit děti uznávat autoritu.',
 'r01_a2': 'Silný vůdce je důležitý pro Českou republiku, i když nebude vždy jednat v souladu se zavedenými pravidly.',
 'r01_k1': 'Nejlepší je dělat věci tradičními způsoby, postaru.',
 'r01_k2': 'Příslušníci menšin by se měli přizpůsobit českým zvykům a tradicím.',
@@ -34,3 +34,8 @@ export let qu = {'r01_a1': 'Školy by měly učit děti uznávat autoritu.',
 'r01_ind1': 'Dnes se člověk musí ohlížet především na to, co je výhodné pro něj osobně.',
 'r01_pol1': 'Společnost je rozdělená na dva nesmiřitelné tábory.',
 'r01_pos1': 'I když se to někdy nezdá, naše společnost funguje ve vzájemném souladu.'}
+
+export const grps = {
+    'a': 'Autoritářství',
+    'k': 'Konzervativismus',
+}
