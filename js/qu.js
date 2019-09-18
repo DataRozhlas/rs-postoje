@@ -36,6 +36,22 @@ export const qu = {'r01_a1': 'Školy by měly učit děti uznávat autoritu.',
 'r01_pos1': 'I když se to někdy nezdá, naše společnost funguje ve vzájemném souladu.'}
 
 export const grps = {
-    'a': 'Autoritářství',
-    'k': 'Konzervativismus',
+    'a': 'Společnost stojící na autoritě – silný vůdce, přizpůsobení se',
+    'k': 'Nadřazenost vlastní kultury',
+    'p': 'Více rozhodování lidem, méně voleným politikům',
+    'lp': 'Vnímání nerovností – rovnostářství, zásluhovost, přerozdělování',
+    'n': 'Rozdělování studentů podle nadání',
+    'np': 'Patriotismus - hrdost na vlastní zemi',
+    'v': 'Víra v Boha',
+    'm' : 'Materialismus – nutnost prosadit vlastní zájmy, důležitost majetku',
+    'zj' : 'Zájem o politiku a dění okolo sebe',
+    'g' : 'Korporace vydělávají na úkor ČR',
+    'z' : 'Prozápadní směřování',
+    'h' : 'Vývoj po roce 1989 a využité šance',
+    'i' : 'Obavy z migrace',
+    'vz' : 'Více žáků na učiliště',
+    'e' : 'Životní prostředí – klima a ochota se omezit',
+    'ind1' : 'Nejistota z budoucího vývoje',
+    'pol1' : 'Společnost je rozdělená na dva tábory', 
+    'pos1': 'V české společnosti je soulad'
 }
