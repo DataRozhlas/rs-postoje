@@ -29,6 +29,7 @@ function drawChart(q) {
     chart: {
         type: 'column'
     },
+
     title: {
         text: qu[q]
     },
@@ -48,7 +49,7 @@ function drawChart(q) {
         },
         labels: {
           formatter: function() {
-            return this.value * 100 + ' %';
+            return Math.abs(this.value) * 100 + ' %';
           }
         }
     },
@@ -72,7 +73,7 @@ function drawChart(q) {
     },
     plotOptions: {
         column: {
-            //stacking: 'percent',
+            stacking: 'normal',
             dataLabels: {
                 enabled: false
             }
@@ -81,18 +82,22 @@ function drawChart(q) {
     series: [{
         name: 'Rozhodně nesouhlasím',
         color: '#d73027',
-        data: vals[0] //.map(v => v*-1)
+        index: 2,
+        data: vals[0].map(v => v*-1)
     }, {
         name: 'Spíše nesouhlasím',
         color: '#fdae61',
-        data: vals[1] //.map(v => v*-1)
+        index: 3,
+        data: vals[1].map(v => v*-1)
     }, {
         name: 'Spíše souhlasím',
         color: '#a6d96a',
+        index: 1,
         data: vals[2]
     }, {
       name: 'Rozhodně souhlasím',
       color: '#1a9641',
+      index: 0,
       data: vals[3]
   }]
   });  
