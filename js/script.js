@@ -29,7 +29,9 @@ function drawChart(q) {
     chart: {
         type: 'column'
     },
-
+    credits: {
+      enabled: false
+    },
     title: {
         text: qu[q]
     },
@@ -44,31 +46,31 @@ function drawChart(q) {
       ]
     },
     yAxis: {
-        title: {
-            text: 'podíl odpovědí',
-        },
-        labels: {
-          formatter: function() {
-            return Math.abs(this.value) * 100 + ' %';
-          }
+      min: -1,
+      max: 1,
+      title: {
+          text: 'podíl odpovědí',
+      },
+      labels: {
+        formatter: function() {
+          return Math.abs(this.value) * 100 + ' %';
         }
+      }
     },
     legend: {
-        align: 'right',
-        x: -30,
-        verticalAlign: 'top',
-        y: 25,
+        align: 'center',
+        x: 0,
+        verticalAlign: 'bottom',
+        y: 20,
         floating: true,
-        backgroundColor:
-            Highcharts.defaultOptions.legend.backgroundColor || 'white',
-        borderColor: '#CCC',
+        borderColor: 'white',
         borderWidth: 1,
         shadow: false
     },
     tooltip: {
         formatter: function() {
           return '<b>' + this.series.name + ':</b> ' 
-          + Math.round(this.y * 1000) / 10 + ' %'
+          + Math.abs(Math.round(this.y * 1000) / 10) + ' %'
         }
     },
     plotOptions: {

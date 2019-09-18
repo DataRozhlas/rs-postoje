@@ -14,7 +14,6 @@ export let qu = {'r01_a1': 'R01_A1. Školy by měly učit děti uznávat autorit
 'r01_v2': 'R01_V2. Ve svém životě se snažím dodržovat hodnoty Desatera.',
 'r01_m1': 'R01_M1. Věci, které člověk vlastní, říkají hodně o tom, jak dobrý život vede.',
 'r01_m2': 'R01_M2. Byl/a bych v životě spokojenější a šťastnější, pokud bych si mohl/a dovolit pořídit věci, které dnes nevlastním.',
-'cont1': 'KONTOLA1.  V tomto řádku pro kontrolu pozornosti vyberte možnost Spíše nesouhlasím',
 'r01_zj1': 'R01_ZJ1. Téměř každý den sleduji vývoj na naší politické scéně.',
 'r01_zj2': 'R01_ZJ2. Zajímám se o mezinárodní události.',
 'r01_g1': 'R01_G1. Lidé jako jsem já na globalizaci a moderních trendech ve společnosti výrazně vydělávají.',
