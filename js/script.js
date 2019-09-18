@@ -68,7 +68,6 @@ function drawChart(q) {
         x: 0,
         verticalAlign: 'bottom',
         y: 20,
-        floating: true,
         borderColor: 'white',
         borderWidth: 1,
         shadow: false
