@@ -1,4 +1,4 @@
-title: "Co nás rozděluje a co nás spojuje"
+title: "Názory, které nás rozdělují a názory, které nás spojují"
 perex: ""
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"

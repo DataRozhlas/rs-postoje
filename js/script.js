@@ -111,7 +111,7 @@ function drawChart(q) {
   });  
 };
 
-drawChart('r01_a1')
+drawChart('r01_i1')
 
 document.getElementById('q-sel').onchange = function(){
   drawChart(this.selectedOptions[0].value)
