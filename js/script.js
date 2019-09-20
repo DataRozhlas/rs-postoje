@@ -64,7 +64,7 @@ function drawChart(q, divid) {
       min: -1,
       max: 1,
       title: {
-          text: 'podíl odpovědí',
+          text: '⟵ nesouhlasí\xa0 \xa0 souhlasí ⟶',
       },
       labels: {
         formatter: function() {
