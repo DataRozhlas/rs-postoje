@@ -15,7 +15,7 @@ Object.keys(qu).forEach(v => {
 })
 document.getElementById('seldiv').innerHTML = sbox + '</select>';
 
-function drawChart(q) {
+function drawChart(q, divid) {
   let d = data[q]
   const vals = [
     [],
@@ -31,7 +31,7 @@ function drawChart(q) {
     vals[3].push(x[3])
   });
 
-  Highcharts.chart('postoje', {
+  Highcharts.chart(divid, {
     chart: {
         type: 'column'
     },
@@ -110,8 +110,10 @@ function drawChart(q) {
   });  
 };
 
-drawChart('r01_i1')
+drawChart('r01_i1', 'postoje')
+// embedy mimo hlavní graf
+drawChart('r01_z3', 'r01_z3') // id otázky, pak id divu
 
 document.getElementById('q-sel').onchange = function(){
-  drawChart(this.selectedOptions[0].value)
+  drawChart(this.selectedOptions[0].value, 'postoje')
 };

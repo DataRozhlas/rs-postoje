@@ -11,3 +11,9 @@ options: [noheader, nopic] #wide, noheader (, nopic)
 <div id="seldiv"></div>
 <div id="postoje"></div>
 </wide>
+
+Random sociologický plky. Buržoazní pavěda atd...
+
+<wide>
+<div id="r01_z3"></div>
+</wide>
