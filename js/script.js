@@ -32,7 +32,16 @@ function drawChart(q, divid) {
 
   Highcharts.chart(divid, {
     chart: {
-        type: 'column'        
+        type: 'column',
+        events: {
+          render: function() {
+            this.series.forEach(
+              function(s) {
+                s.dataLabelsGroup.hide();
+              }
+            )
+          }
+        }        
     },
     credits: {
       enabled: false
@@ -91,9 +100,6 @@ function drawChart(q, divid) {
         series: {
           animation: false,
           events: {
-            afterAnimate: function() {
-              this.dataLabelsGroup.hide();
-            },
             mouseOver: function() {
               this.dataLabelsGroup.show();
             },
