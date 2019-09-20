@@ -1,4 +1,5 @@
 ﻿import "./byeie"; // loučíme se s IE
+import "./kalk";
 
 import { data } from "./stats";
 import { qu } from "./qu";

@@ -7,12 +7,13 @@ libraries: [highcharts] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 
+<div class="chart1" id="r01_z3"></div>
+
 <wide>
 <div id="seldiv"></div>
-<div id="postoje"></div>
+<div class="chart1" id="postoje"></div>
 </wide>
 
+<div id="kviz"></div>
 
-<wide>
-<div id="r01_z3"></div>
-</wide>
+<div id="tridy-box"></div>
