@@ -32,7 +32,7 @@ function drawChart(q, divid) {
 
   Highcharts.chart(divid, {
     chart: {
-        type: 'column'
+        type: 'column'        
     },
     credits: {
       enabled: false
@@ -73,8 +73,7 @@ function drawChart(q, divid) {
     },
     tooltip: {
           formatter: function() {
-          return '<b>' + this.series.name + ':</b> ' 
-          + Math.abs(Math.round(this.y * 1000) / 10) + ' %'
+          return '<b>' + this.series.name + '</b>' 
         }
     },
     plotOptions: {
@@ -82,10 +81,26 @@ function drawChart(q, divid) {
             stacking: 'normal',
             dataLabels: {
                 enabled: true,
+                allowOverlap: true,
+                padding: 0,
                 formatter: function() {
                   return Math.abs(Math.round(this.y * 1000) / 10) + ' %';
                 }
             }
+        },
+        series: {
+          animation: false,
+          events: {
+            afterAnimate: function() {
+              this.dataLabelsGroup.hide();
+            },
+            mouseOver: function() {
+              this.dataLabelsGroup.show();
+            },
+            mouseOut: function() {
+              this.dataLabelsGroup.hide();
+            }
+          }
         }
     },
     series: [{
