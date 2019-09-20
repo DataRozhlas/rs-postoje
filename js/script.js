@@ -81,7 +81,10 @@ function drawChart(q, divid) {
         column: {
             stacking: 'normal',
             dataLabels: {
-                enabled: false
+                enabled: true,
+                formatter: function() {
+                  return Math.abs(Math.round(this.y * 1000) / 10) + ' %';
+                }
             }
         }
     },
