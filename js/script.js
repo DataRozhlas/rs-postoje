@@ -1,15 +1,14 @@
 ﻿import "./byeie"; // loučíme se s IE
 
 import { data } from "./stats";
-import { qu, grps } from "./qu";
+import { qu } from "./qu";
 
 let sbox = '<select id="q-sel">'
 let gr = '';
 Object.keys(qu).forEach(v => {
-  let qid = v.split('_')[1].slice(0,-1)
-  if (qid != gr) {
-    gr = qid
-    sbox += ' <optgroup label="' + grps[gr] + '">'
+  if (v.startsWith('predel')) {
+    sbox += ' <optgroup label="' + qu[v] + '">'
+    return
   }
   sbox +=  '<option value="' + v + '">' + qu[v] + '</option>'
 })
