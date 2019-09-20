@@ -72,7 +72,7 @@ function drawChart(q, divid) {
         shadow: false
     },
     tooltip: {
-        formatter: function() {
+          formatter: function() {
           return '<b>' + this.series.name + ':</b> ' 
           + Math.abs(Math.round(this.y * 1000) / 10) + ' %'
         }
