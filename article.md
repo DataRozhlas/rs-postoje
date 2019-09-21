@@ -7,6 +7,10 @@ libraries: [highcharts] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 
+## Jaká témata rozdělují společnost – seřazeno sestupně od nejvíc po nejmíň polarizující
+<div id="teplomer-list"></div>
+
+
 <div class="chart1" id="r01_z3"></div>
 
 <wide>

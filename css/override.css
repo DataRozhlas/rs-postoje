@@ -1,5 +1,5 @@
 ul.snowfall, ol.snowfall {
-    list-style: initial !important;
+    list-style: square !important;
     font-size: medium !important;
     line-height: 1.5 !important;
 }

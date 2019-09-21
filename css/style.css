@@ -4,6 +4,30 @@
 .chart2 {
 }
 
+.polozka {
+    background: #eee;
+    border: 1px dotted #ddd;
+    padding: 0px 5px 0px 5px;
+    margin-bottom: 2px;
+}
+
+.polozka:hover {
+    background: #aaa;
+}
+
+.polozka-vybrana {
+    background: #aaa;   
+}
+
+.polozka-odkaz {
+    text-decoration: none;
+}
+
+.vybrano {
+    border: 1px solid black;
+    background: #aaa;
+} 
+
 html {
     scroll-behavior: smooth;
   }
