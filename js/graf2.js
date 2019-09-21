@@ -27,6 +27,60 @@ const tridy = {
       }
 };
 
+const kresliGraf = (data) => {
+    
+    let cisla = tridy.data[data];
+    if (cisla.length > 6) { cisla.pop() };
+    
+    Highcharts.chart('graf2', {
+        chart: {
+            type: 'column'
+        },
+        title: {
+            text: data
+        },
+        credits: {
+            enabled: false
+        },
+        legend: {
+            enabled: false
+        },
+        colors: ['#1d8f64', '#ce4a08', '#6159a4', '#de0077', '#569918', '#df9c09' ],
+        xAxis: {
+            categories: [
+                'Zajištěná střední třída',
+                'Nastupující kosmopolitní třída',
+                'Tradiční pracující třída',
+                'Třída místních vazeb',
+                'Ohrožená třída',
+                'Strádající třída'
+            ],
+            crosshair: true
+        },
+        yAxis: {
+            max: 60,
+            min: -60,
+            title: {
+                text: 'index vnímání tématu veřejností'
+            }
+        },
+        plotOptions: {
+            column: {
+                pointPadding: 0.2,
+                borderWidth: 0
+            },
+            series: {
+                animation: false,
+                colorByPoint: true
+            }
+        },
+        series: [{
+            name: data,
+            data: cisla    
+        }]
+    });
+}
+
 // seřaď data
 let serazeno = Object.keys(tridy.data);
 serazeno.sort((a,b) => {
@@ -43,9 +97,12 @@ document.querySelector('.polozka').classList.add('vybrano');
 
 teplomerList.addEventListener('click', (e) => {
     if (e.target !== teplomerList) {
-        console.log(e);
-        //console.log(e.target.childNodes[0].textContent);
         document.querySelector('.vybrano').classList.remove('vybrano');
         e.target.classList.add('vybrano');
+        kresliGraf(e.target.childNodes[0].textContent);
     }
 });
+
+//kresli první graf
+
+kresliGraf("Obavy z migrace");

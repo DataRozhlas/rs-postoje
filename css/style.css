@@ -1,3 +1,16 @@
+#container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+#graf2 {
+    width:100%;
+}
+
+#teplomer-list {
+    width:100%;
+}
+
 .chart1 {
 }
 
