@@ -1,6 +1,12 @@
+@media screen and (max-width: 700px) {
+    #container {
+        flex-wrap: wrap;
+    }
+}
+
 #container {
     display: flex;
-    flex-wrap: nowrap;
+    flex-direction: row-reverse;
 }
 
 #graf2 {

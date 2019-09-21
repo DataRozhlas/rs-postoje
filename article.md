@@ -1,4 +1,4 @@
-title: "Názory, které nás rozdělují a názory, které nás spojují"
+title: "Rozděleni svobodou: Které názory nás rozdělují, a které nás spojují"
 perex: ""
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
@@ -7,10 +7,10 @@ libraries: [highcharts] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 <wide>
-<h2>Jaká témata rozdělují společnost – seřazeno sestupně od nejvíc po nejmíň polarizující</h2>
+<h2>Jaká témata rozdělují společnost – seřazeno od nejvíc po nejmíň polarizující</h2>
 <div id="container">
-<div id="teplomer-list"></div>
 <div id="graf2"></div>
+<div id="teplomer-list"></div>
 </div>
 </wide>
 
