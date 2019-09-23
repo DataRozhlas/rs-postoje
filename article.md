@@ -1,4 +1,4 @@
-title: "Osmnáct štěpících linií v české společnosti: Podívejte se, co nás nejvíc rozděluje, a co nás naopak spojuje"
+title: "18 štěpících linií v české společnosti: podívejte se, co nás nejvíc rozděluje a co spojuje"
 perex: "Čechy a Češky z různých společenských tříd nejvíc odlišují postoje k migraci, názory na prozápadní směřování země a vnímání nerovností ve společnosti – tedy zda si myslí, že je každý svého štěstí strůjcem, nebo jestli o úspěchu rozhoduje něco jiného než vlastní píle a šikovnost. „Málokdo ale zastává vyhraněné černobílé postoje. Spíš jsme společnost mnoha odstínů šedi, tedy rozdělovaná, nikoli rozdělená společnost,“ říká nad daty z výzkumu Česká společnost po třiceti letech jeho spoluautor, ředitel agentury STEM Martin Buchtík."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
