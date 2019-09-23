@@ -90,7 +90,7 @@ serazeno.sort((a,b) => {
 // vygeneruj prepinatko grafů
 const teplomerList = document.querySelector("#teplomer-list");
 serazeno.forEach((t) => {
-    teplomerList.innerHTML += `<a class="polozka-odkaz" href="#"><div class="polozka">${t}</div></a>`    
+    teplomerList.innerHTML += `<a class="polozka-odkaz"><div class="polozka">${t}</div></a>`    
 });
 
 document.querySelector('.polozka').classList.add('vybrano');
