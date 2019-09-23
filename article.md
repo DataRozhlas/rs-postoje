@@ -127,8 +127,6 @@ Andrej Babiš dokázal ve veřejném prostoru prosadit svůj příběh úspěšn
 
 Proto je příběh Andreje Babiše „budu rozhodovat jen pragmaticky a budu vás řídit jako své firmy“ tak dobře postavený a ušitý Čechům přímo na míru. Skvěle funguje v roli autentického „šéfa“, který umí být lidový i distingovaný, když potřebuje, a zároveň autoritativní. Nejednou se stalo, že v rozhovoru s českým premiérem novinář zaznamenal, že mu zazvonil telefon a že na konci hovoru zaslechl, jak druhá strana říká „ano, šéfe“. I to je podstatná součást jeho mediálního obrazu.
 
-## Na Východ chce málokdo
-
 **Češi se po třiceti letech od revoluce, jejímž heslem bylo Zpátky do Evropy, neshodnou ani na prozápadním směřování země. Je to třetí nejvíce štěpící téma z těch, která jste zkoumali.**
 
 <div class="chart1" id="r01_z3"></div>
@@ -145,7 +143,7 @@ Společnost jako celek má různé názory na zahraničněpolitické směřován
 
 Přesně tak to je. Ale zároveň musíme říct, že si drtivá většina lidí myslí, že nerovnosti v České republice představují vážný problém.
 
-## Jak vzniká představa elity odtržené od „běžných lidí“
+## Kde dělají bohatí chybu
 
 **I přesto, že podle většiny ukazatelů, které ji měří, patříme ve světě k nejvíce rovnostářským zemím?**
 
@@ -159,37 +157,38 @@ Proto vnímáme citlivě i menší nerovnosti, které Eurostat nemůže. U nás 
 
 Jenže druhá věc pak je – stejně jako u ochrany životního prostředí – ochota podílet se na jeho řešení. A tam už jsou mezi společenskými třídami výrazné rozdíly. Zrcadlově obráceně k životnímu prostředí: vyšší střední vrstvy jsou méně ochotné vzdát se části svých příjmů, tedy přistoupit na progresivnější zdanění, aby pomohli ke zmírnění sociálních problémů a snížení nerovnosti.
 
-r01_lp1
+<div class="chart1" id="r01_lp1"></div>
 
 Téměř všichni tedy připouštějí, že nerovnost je problém, ale lidé z různých částí společnosti se neshodnou v jeho naléhavosti, v příčinách a ve způsobech řešení. Ten, kdo je bohatý a disponuje všemi typy kapitálů, tedy ekonomickým, sociálním, kulturním i lidským, má tendenci myslet si, že je to jeho zásluha. A že ti, kdo mají těch možností méně a jsou chudí, by se měli víc snažit. Že je to jejich problém.
 
 Tento způsob vykreslování společenské hierarchie pak velmi dobře funguje při hledání společného nepřítele – pak je přece jasné, že je to právě ona mýtická „elita odtržená od běžných lidí“.
 
-Tématem, které i letos v červnu, kdy jste sbírali data, nejvýrazněji štěpilo českou společnost, je migrace. Jak to, není to už obnošená vesta? Jak jste říkal, debata proběhla, postoje k migraci jsou usazené a nic dramatického se v této oblasti neděje.
+**Tématem, které i letos v červnu, kdy jste sbírali data, nejvýrazněji štěpilo českou společnost, je migrace. Jak to, není to už vyřešená věc? Jak jste říkal, debata proběhla, postoje k migraci jsou usazené a nic dramatického se neděje.**
 
-Migrace je stále problém pro českou veřejnost. Neznamená to, že dokáže rozlišit různé typy migrace. Když se ptáme velmi podrobně na to, jestli by přijali vzdělané lidi ze západní Evropy, drtivá většina lidí říká, že ano. 
+Přesto pro českou veřejnost stále představuje palčivý problém. V roce 2015 vrcholila diskuse o tom, jestli máme přijímat lidi, kteří prchají před válkou, nebo ne. O tom už se dnes nemluví. Migranti mají v očích veřejnosti nálepku lidí, kteří si v Evropě chtějí vydobýt lepší život.
 
-Mediální příběh je dneska o migraci z Afriky. V roce 2015 byla diskuse o tom, jestli přimout lidi, kteří prchají před válkou nebo ne. Teď už se o tom nemluví, nálepka migranta je spojená se snahou vydobýt si lepší život.
+Hlavní mediální příběh je dnes především o migraci z Afriky. Problém je v tom, že skoro vůbec nerozlišuje různé typy migrace. Když se ptáme velmi podrobně na to, jestli by Češi přijali vzdělané lidi ze západní Evropy, drtivá většina lidí říká, že ano.
 
-Z druhé strany, o čem se veřejná debata nevede: migrace se odráží v průmyslových regionech, kde přibývá dělníků z různých koutů světa, nejčastěji z východní Evropy, ale například i z MOngolska.
+<div class="chart1" id="r01_i2"></div>
 
-Tam lidi reflektují, že přicházejí lidéí, kteří mají jiné kulturní vzorce a jinak se chovají. Často muži v produktivním věku. Z jiného pohledu otcové od rodin, kteří posílají část příjmů domů , živí rodiny a jsou ve svých domovinách vnímaní jako hrdinové. Ale tady jsou zase vnímaní jako že žijí zvláštním způsobem života, o víkendech se opíjejí, shromažďují se na ulicích, protože je to jejich zvyk. Nechodí do hospody, protože chodit do hospody je český zvyk. Vnímají to, že mluví jiným jazykem, mají jinou kulruty, jsou občas hluční, pijí alkohol, odhazují nedopalky, lidi jsou na to citliví.
 
-Takže vnímají ohrožení nejen kultury, ale i vlastní bezpečnosti. To se ovšem v datech, která znám neodráží. počet trestných činů a celková bezpečnost v těch lokalitách se nijak výrazně neměníá. Ale to neznamená, že to veřejnost nevnímá.
+**V čem je tedy problém?**
 
-Spíš záleží, jak moc závažný problém to je.
+Hodně záleží na osobní zkušenosti. Migrace se dnes u nás výrazněji projevuje v menších průmyslových městech, kde rychle přibývají dělníci z různých koutů světa, nejčastěji z východní Evropy, ale například i z Mongolska.
 
-Diskuse zase není přijmeme všechny nebo přijmeme někoho za určitách podmínek. Musíme je dobře stanovit a pojďm o tom debatovat. Nebo radš nepřijímejme nikoho. Když půjdeme hlouběji, diskuse je spojená s nedůvěrou v to, že český stát dokáže ty lidi efektivně a správně vybrat.
+Místní lidé pak vidí na vlastní oči odlišné kulturní vzorce a na sebemenší odlišnosti jsou citliví. Vnímají je jako ohrožení vlastní kultury nebo i bezpečnosti, i když data o kriminalitě žádný dramatický nárůst neukazují. Stačí třeba i to, že lidé z jiné kultury mohou mít jinak nastavenou toleranci k hlasitým projevům, že se večer raději scházejí na ulici, a ne v hospodách jako Češi, že házejí na zem nedopalky... Přitom jsou to titíž lidé, kteří jsou doma vnímáni jako hrdinové, kteří odešli do ciziny a posílají vydělané peníze domů, aby uživili rodinu.
 
-Vynyká se kosmopolitní třída. Je to tím, že jsou to lidé, kteří mají bezprostčřední častější zkušenost s cizinci, studovali v zahraničí, jezdí tam?
+Debata ve společnosti ale zase není černobílá. Nevede se o tom, jestli přijmeme všechny, nebo vůbec nikoho, ale koho a za jakých podmínek. Spíš se tu projevuje nedůvěra velké části veřejnosti v český stát, že dokáže zájemce o pobyt a práci v Česku správně vybrat.
 
-Je to jednoznačně spojené s lidskáým kapitálem. To je schopnost práce s počítačem a znalost západních jazyků, která je samozřejmě propojená s cestou do zahraničí, schopností orientovat se v cizojazyčných zdrojích, případně mezinárodní kontakty, byť ty má naprosto marginální procento lidí v České republice.Jiná diskuse v pracovním prostředí, kde část lidí bude pracovat v mezinárodnách insititucí, nadnárodních firmách napříč časovými pásmy. kontaktují s lidmi z jiných reigionů a kultur.
+**Z odpovědí na otázky kolem migrace je vidět, že se ze společenského konsensu výrazně vyděluje nastupující kosmopolitní třída. Souvisí to s tím, že je to vlastně jediná část společnosti, která má s cizinci bližší osobní zkušenost, domluví se s nimi, často studovala nebo pracovala v zahraničí?**
 
-Takže je to kosmopolitní třída versus všichni ostatní?
+Vstřícnější postoj k migraci je jednoznačně spojený s lidským kapitálem, tedy se schopností pracovat s počítačem a se znalostí západních jazyků. Ta je samozřejmě propojená s častějšími cestami do zahraničí, se schopností zorientovat se i v cizojazyčných zdrojích, případně i s tím, že pak tito lidé mají v zahraničí i osobní  kontakty. To lze jinak říct jen o naprosto marginálním procentu české populace.
 
-Kosmopolitní třída a část zajištěné střední třídy říká pojďme o tom diskutovat, vždyť je to věcné téma. Nějaké lidi bychom přijmout měli, ostatně naše ekonomika to potřeuje. Druhá část ale říká z různých důvodů ne, radši ne. Neříkají já je nesnáším, nenávidím, . ale jistější bude nikoho nepřijmout. Máme vážnější probléímy, pojďme radši pomáhat vlastním lidem.
+**Takže nejsme rozdělená společnost, ale v obavách z migrace je to kosmopolitní třída versus všichni ostatní?**
 
-Ten problém je hluboký. Jediné, na čem se veřejnost shodne, je takové to pojďme pomáhat v místě vzniku problémů. ALe když se podíváte na rozpočty naší zahraniční pomoci, tak spíš klesá, než že by stoupela.
+Kosmopolitní třída a část zajištěné střední třídy vlastně jen říká: zbavme se strachu z neznámého a pojďme o tom diskutovat, vždyť je to věcné téma. Nějaké lidi ze zahraničí bychom přijmout měli, ostatně naše ekonomika to potřeuje. Zbytek společnosti ale odpovídá z různých důvodů ne, radši ne. Neříkají, že by cizince neměli rádi, ale že jistější bude nepřijímat nikoho. Typický postoj zní: Máme vážnější problémy, pojďme radši pomáhat vlastním lidem.
+
+Ten problém je opravdu hluboký a jediné, na čem se širší veřejnost shodne, je proklamace „pojďme pomáhat v místech, kde ty problémy vznikají“. Jenže když se pak podíváte na rozpočty naší zahraniční a rozvojové pomoci, zjistíte, že spíš klesá, než že by stoupela.
 
 XXX
 

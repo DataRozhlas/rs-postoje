@@ -148,7 +148,8 @@ drawChart('r01_pos1', 'r01_pos1');
 drawChart('r01_h1', 'r01_h1');
 drawChart('r01_h2', 'r01_h2');
 drawChart('r01_n2', 'r01_n2');
-
+drawChart('r01_lp1', 'r01_lp1');
+drawChart('r01_i2', 'r01_i2');
 
 
 
