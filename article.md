@@ -27,6 +27,11 @@ _Výsledky pak vědci přepočítali na „teploměry“. Ty ukazují index vní
 
 **Kalkulačka sociálních tříd už má na serveru iROZHLAS.cz přes 170 tisíc vyplnění. Nejčastější kritická reakce čtenářů: vyšla mi třída, jejíž některé charakteristiky v mém případě neodpovídají skutečnosti – například jsem prý nastupující kosmopolitní, a to i přesto, že jsem už v důchodu, nebydlím ve velkém městě a mám vlastní dům. Jak odpovídáte lidem, kteří nejsou spokojeni s tím, co jim v kalkulačce vyšlo?**
 
+<right>
+<h4>Martin Buchtík</h4>
+<p>Sociolog a ředitel neziskového ústavu STEM. Zabývá se tématy spojenými s dynamicky se proměňující českou a evropskou společností v širším kontextu jako je formování veřejného mínění, kvalita života, soudržnost a nerovnosti. V minulosti mimo jiné řídil CVVM, doktorské studium absolvoval na Fakultě sociálních věd na Univerzitě Karlově se zaměřením na metodologii sociologického výzkumu.</p>
+</right>
+
 Každá věda pozoruje skutečnost a na jejím základě vytváří nějaký model. Ten model je tak podrobný, jak je potřeba. Když jste architekt a navrhujete urbanistický koncept nové čtvrti, nepotřebujete přesně vědět, jak vypadá každý jednotlivý pokoj nebo šuplík.
 
 Rozdělení společnosti do šesti tříd, stejně jako jakákoli jiná typologie, s sebou nese nutnost zjednodušení. My jsme samozřejmě technicky vzato mohli ve společnosti identifikovat třeba 35 různých skupin a mít samostatně i kreativní elity, počítačově a jazykově zdatné důchodce nebo další podskupiny, v nichž by se možná čtenáři poznávali lépe.
