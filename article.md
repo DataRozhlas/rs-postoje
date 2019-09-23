@@ -1,5 +1,5 @@
 title: "18 štěpících linií v české společnosti: podívejte se, co nás nejvíc rozděluje a co spojuje"
-perex: "Čechy a Češky z různých společenských tříd nejvíc odlišují postoje k migraci, názory na prozápadní směřování země a vnímání nerovností ve společnosti – tedy zda si myslí, že je každý svého štěstí strůjcem, nebo jestli o úspěchu rozhoduje něco jiného než vlastní píle a šikovnost. „Málokdo ale zastává vyhraněné černobílé postoje. Spíš jsme společnost mnoha odstínů šedi, tedy rozdělovaná, nikoli rozdělená společnost,“ říká nad daty z výzkumu Česká společnost po třiceti letech jeho spoluautor, ředitel agentury STEM Martin Buchtík."
+perex: "Čechy a Češky z různých společenských tříd nejvíc odlišují postoje k migraci, názory na prozápadní směřování země a vnímání nerovností ve společnosti – tedy zda si myslí, že je každý svého štěstí strůjcem, nebo jestli o úspěchu rozhoduje něco jiného než vlastní píle a šikovnost. „Málokdo ale zastává vyhraněné černobílé postoje. Spíš jsme společnost mnoha odstínů šedi, tedy rozdělovaná, nikoli rozdělená společnost,“ říká nad daty z výzkumu <a href='https://www.irozhlas.cz/rozdeleni-svobodou'>Česká společnost po třiceti letech</a> jeho spoluautor, ředitel agentury STEM Martin Buchtík."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
 styles: []
@@ -23,7 +23,7 @@ _Výsledky pak vědci přepočítali na „teploměry“. Ty ukazují index vní
 </br>
 </wide>
 
-_Položky převzali autoři výzkumu z uznávaných mezinárodních šetření jako [ESS](https://www.europeansocialsurvey.org/) nebo [ISSP](https://www.gesis.org/issp/home), dlouhodobých časových řad STEM a CVVM a mezinárodně uznávaných nástrojů měřících jednotlivé postojové rysy (autoritářství, xenofobie, populismus). Z kapacitních důvodů nebylo možné vždy položit celou sadu otázek, která je pro daný rys určena (to bývá často deset i více položek), proto analytický tým vybral vždy 1-3 takové, které na základě statistických analýz dat ze zmíněných výzkumů daný postoj nejlépe identifikují._
+<span class="vysvětlivka">Položky převzali autoři výzkumu z uznávaných mezinárodních šetření jako [ESS](https://www.europeansocialsurvey.org/) nebo [ISSP](https://www.gesis.org/issp/home), dlouhodobých časových řad STEM a CVVM a mezinárodně uznávaných nástrojů měřících jednotlivé postojové rysy (autoritářství, xenofobie, populismus). Z kapacitních důvodů nebylo možné vždy položit celou sadu otázek, která je pro daný rys určena (to bývá často deset i více položek), proto analytický tým vybral vždy 1-3 takové, které na základě statistických analýz dat ze zmíněných výzkumů daný postoj nejlépe identifikují.</span>
 
 **Kalkulačka sociálních tříd už má na serveru iROZHLAS.cz přes 170 tisíc vyplnění. Nejčastější kritická reakce čtenářů: vyšla mi třída, jejíž některé charakteristiky v mém případě neodpovídají skutečnosti – například jsem prý nastupující kosmopolitní, a to i přesto, že jsem už v důchodu, nebydlím ve velkém městě a mám vlastní dům. Jak odpovídáte lidem, kteří nejsou spokojeni s tím, co jim v kalkulačce vyšlo?**
 
