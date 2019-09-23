@@ -25,7 +25,7 @@ _Výsledky pak vědci přepočítali na „teploměry“. Ty ukazují index vní
 
 <span class="vysvetlivka">Položky převzali autoři výzkumu z uznávaných mezinárodních šetření jako [ESS](https://www.europeansocialsurvey.org/) nebo [ISSP](https://www.gesis.org/issp/home), dlouhodobých časových řad STEM a CVVM a mezinárodně uznávaných nástrojů měřících jednotlivé postojové rysy (autoritářství, xenofobie, populismus). Z kapacitních důvodů nebylo možné vždy položit celou sadu otázek, která je pro daný rys určena (to bývá často deset i více položek), proto analytický tým vybral vždy 1-3 takové, které na základě statistických analýz dat ze zmíněných výzkumů daný postoj nejlépe identifikují.</span>
 
-**Kalkulačka sociálních tříd už má na serveru iROZHLAS.cz přes 170 tisíc vyplnění. Nejčastější kritická reakce čtenářů: vyšla mi třída, jejíž některé charakteristiky v mém případě neodpovídají skutečnosti – například jsem prý nastupující kosmopolitní, a to i přesto, že jsem už v důchodu, nebydlím ve velkém městě a mám vlastní dům. Jak odpovídáte lidem, kteří nejsou spokojeni s tím, co jim v kalkulačce vyšlo?**
+**[Kalkulačka sociálních tříd](https://www.irozhlas.cz/zpravy-domov/ceska-spolecnost-vyzkum-tridy-kalkulacka_1909171000_zlo) už má na serveru iROZHLAS.cz přes 170 tisíc vyplnění. Nejčastější kritická reakce čtenářů: vyšla mi třída, jejíž některé charakteristiky v mém případě neodpovídají skutečnosti – například jsem prý nastupující kosmopolitní, a to i přesto, že jsem už v důchodu, nebydlím ve velkém městě a mám vlastní dům. Jak odpovídáte lidem, kteří nejsou spokojeni s tím, co jim v kalkulačce vyšlo?**
 
 <right>
 <h4>Martin Buchtík</h4>
@@ -44,6 +44,32 @@ Jenomže kvalitu typologie neurčuje to, že se v ní každý přesně pozná, a
 **Druhá nejčastější otázka čtenářů je, proč se respondentů ptáte na znalost západních jazyků, a ne třeba na ruštinu. Proč vás zajímá, jak často chodí na rockové koncerty, a ne třeba na jazzové nebo metalové.**
 
 Strašně rádi bychom položili třeba 750 otázek, ale máme zkušenost, že na tak dlouhé dotazníky lidé neradi odpovídají. Proto hledáme otázky, které nejlépe vystihují společenský jev, který chceme zkoumat – sociolog by řekl nejlepší indikátory – i když nemusí nejlépe fungovat pro každého jednotlivého respondenta. Ruština určitě není méněcenná, ale angličtinu dnes v práci potřebujete častěji.
+
+<a href="/zpravy-domov/ceska-spolecnost-vyzkum-tridy-kalkulacka_1909171000_zlo" class="b-inline b-inline--left">
+  <div class="b-inline__wrap">
+            <div class="b-inline__img">
+          <div class="img img--16x9 img--w238 is-loaded">
+              <span class="img__holder is-loading is-loaded is-visible" data-srcset="[&quot;https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/rozdeleni_svobodou_190916-175104_pek.png?itok=RoGi49z- 238x134&quot;]">
+
+  <noscript>    <img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/rozdeleni_svobodou_190916-175104_pek.png?itok=RoGi49z-" alt="" />  </noscript>
+<img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/rozdeleni_svobodou_190916-175104_pek.png?itok=RoGi49z-"></span>
+          </div>
+        </div>
+        <div class="b-inline__content">
+      <p class="text-xs--m text-serif">
+        Unikátní výzkum: česká společnost se nedělí na dva tábory, ale do šesti tříd. Zjistěte, do které patříte vy       </p>
+    </div>
+    <p class="b-inline__more">
+      <span class="link-more">
+        Číst článek
+        <span class="icon-svg icon-svg--arrow-dots ">
+    <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-arrow-dots" x="0" y="0" width="100%" height="100%"></use>
+      
+  </span>      </span>
+    </p>
+  </div>
+</a>
 
 Dotazník jsme nestavěli na zelené louce. Vycházeli jsme z mnoha podrobnějších šetření. Díky nim víme, že problémy, které jsme chtěli zkoumat, nám právě tyto otázky osvětlují nejlíp. Což ovšem neznamená, že perfektně sedí na každého jednotlivce. Není to psychologické vyšetření, ale celospolečenská diagnostika.
 
@@ -212,7 +238,7 @@ Ten problém je opravdu hluboký a jediné, na čem se širší veřejnost shodn
 ## Nepřesvědčovat přesvědčené
 **Když si zkusíme postoje Češek a Čechů rozdělit i pomocí jiných ukazatelů, než je příslušnost k jedné ze společenských tříd, kde vznikají největší názorové rozdíly?**
 
-Pohled skrze třídy se ukazuje jako silný. Výrazná je ale také kombinace faktorů věk a vzdělání. Nejvíce odlišné postoje ve většině otázek mají lidé mladší s vysokoškolským vzdělání a lidé z nejvyšší věkové kategorie se základním vzděláním. Někde hraje větší roli věk, někde vzdělání, ale když oba údaje zkombinujeme, vzájemně se posilují a projevují se výrazně téměř u všech štěpících linií.
+Pohled skrze třídy se ukazuje jako silný. Výrazná je ale také kombinace faktorů věk a vzdělání. Nejvíce odlišné postoje ve většině otázek mají lidé mladší s vysokoškolským vzděláním a lidé z nejvyšší věkové kategorie se základním vzděláním. Ale i když si populaci rozdělíme podle věku na dvacátníky, třicátníky, čtyřicátníky atd., najdeme rozdíly i mezi jednotlivými destiletkami. Někde hraje větší roli věk, někde vzdělání, ale když oba údaje zkombinujeme, vzájemně se posilují a projevují se výrazně téměř u všech štěpících linií.
 
 Další silný faktor je lidský kapitál, tedy především znalost cizích jazyků a počítačů. Významnou roli hraje zejména u kulturních otázek, jako jsou obavy z budoucnosti, vnímání nerovností, obavy z migrace, patriotismus, spokojenost s vývojem společnosti nebo orientace na Západ. Když se podíváme na největší extrémy, můžeme říct, že lidský kapitál hraje při formování postojů dokonce silnější roli než kapitál ekonomický, tedy příjem a majetek. Ale jsou to spojené nádoby: kdo má vysoký lidský kapitál, bude mít s vysokou pravděpodobností i nadprůměrný ekonomický kapitál.
 
