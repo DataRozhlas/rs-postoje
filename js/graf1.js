@@ -139,7 +139,6 @@ function drawChart(q, divid) {
 
 // embedy mimo hlavní graf
 drawChart('r01_z3', 'r01_z3'); // id otázky, pak id divu
-drawChart('r01_np1', 'r01_np1');
 drawChart('r01_e2', 'r01_e2');
 drawChart('r01_zj1', 'r01_zj1');
 drawChart('r01_a2', 'r01_a2');

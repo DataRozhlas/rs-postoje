@@ -1,5 +1,5 @@
 title: "Osmnáct štěpících linií v české společnosti: Podívejte se, co nás nejvíc rozděluje, a co nás naopak spojuje"
-perex: "Čechy a Češky z různých společenských tříd nejvíc odlišují postoje k migraci, názory na prozápadní směřování země a vnímání nerovností ve společnosti – tedy zda si myslí, že je každý svého štěstí strůjcem, nebo jestli je o úspěchu rozhoduje něco jiného než vlastní píle a šikovnost. „Postoje ale nejsou černobílé. Spíš jsme společnost mnoha odstínů šedi, polotónů,“ říká nad daty z výzkumu Česká společnost po třiceti letech jeho spoluautor, ředitel agentury STEM Martin Buchtík."
+perex: "Čechy a Češky z různých společenských tříd nejvíc odlišují postoje k migraci, názory na prozápadní směřování země a vnímání nerovností ve společnosti – tedy zda si myslí, že je každý svého štěstí strůjcem, nebo jestli dnes o úspěchu rozhoduje něco jiného než vlastní píle a šikovnost. „Postoje ale nejsou černobílé. Spíš jsme společnost mnoha odstínů šedi, polotónů,“ říká nad daty z výzkumu Česká společnost po třiceti letech jeho spoluautor, ředitel agentury STEM Martin Buchtík."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
 styles: []
@@ -9,9 +9,9 @@ options: [noheader, nopic] #wide, noheader (, nopic)
 
 <em>Sociologové zkoumali štěpící linie pomocí <a href="#postoje">dvaatřiceti otázek</a> rozdělených do osmnácti tematických skupin.</em>
 
-_Například téma *Obavy z migrace* se skládá z odpovědí na tři otázky: *Ohrožují imigranti náš způsob života?* *Způsobují imigranti nárůst trestné činnosti?* A *ohrožují imigranti českou ekonomiku a sociální jistoty?* Respondenti vybírali z odpovědí *Rozhodně souhlasím*, *spíše souhlasím*, *spíše nesouhlasím* a *rozhodně nesouhlasím*._
+_Například téma **Obavy z migrace** se skládá z odpovědí na tři otázky: **Ohrožují imigranti náš způsob života?** **Způsobují imigranti nárůst trestné činnosti?** A **ohrožují imigranti českou ekonomiku a sociální jistoty?** Respondenti vybírali z odpovědí *Rozhodně souhlasím*, *spíše souhlasím*, *spíše nesouhlasím* a *rozhodně nesouhlasím*._
 
-_Výsledky pak sociologové přepočítali na „teploměry“ ukazující index vnímání tématu různými skupinami veřejnosti, tedy sílu jejich postojů. Teploměry mohou ukazovat hodnoty od +100 do -100 podle toho, jak moc je daný problém pálí nebo jak jednoznačný názor na něj mají._
+_Výsledky pak vědci přepočítali na „teploměry“ ukazující index vnímání tématu různými skupinami veřejnosti, tedy sílu jejich postojů. Teploměry mohou ukazovat hodnoty od +100 do -100 podle toho, jak moc je daný problém pálí nebo jak jednoznačný názor na něj mají._
 
 <wide>
 <h2>Jaká témata rozdělují společnost – seřazeno od nejvíc po nejmíň polarizující</h2>
