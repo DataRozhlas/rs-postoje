@@ -101,9 +101,10 @@ teplomerList.addEventListener('click', (e) => {
         e.target.classList.add('vybrano');
         kresliGraf(e.target.childNodes[0].textContent);
     }
-    location.hash = "graf-kotva";
+    if (screen.width < 600) { //odskok na graf pouze na mobilu
+        location.hash = "graf-kotva";
+    }
 });
 
 //kresli první graf
-
 kresliGraf("Obavy z migrace");
