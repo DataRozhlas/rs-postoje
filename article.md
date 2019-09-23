@@ -23,6 +23,8 @@ _Výsledky pak vědci přepočítali na „teploměry“. Ty ukazují index vní
 </br>
 </wide>
 
+_Položky převzali autoři výzkumu z uznávaných mezinárodních šetření jako [ESS](https://www.europeansocialsurvey.org/) nebo [ISSP](https://www.gesis.org/issp/home), dlouhodobých časových řad STEM a CVVM a mezinárodně uznávaných nástrojů měřících jednotlivé postojové rysy (autoritářství, xenofobie, populismus). Z kapacitních důvodů nebylo možné vždy položit celou sadu otázek, která je pro daný rys určena (to bývá často deset i více položek), proto analytický tým vybral vždy 1-3 takové, které na základě statistických analýz dat ze zmíněných výzkumů daný postoj nejlépe identifikují._
+
 **Kalkulačka sociálních tříd už má na serveru iROZHLAS.cz přes 170 tisíc vyplnění. Nejčastější kritická reakce čtenářů: vyšla mi třída, jejíž některé charakteristiky v mém případě neodpovídají skutečnosti – například jsem prý nastupující kosmopolitní, a to i přesto, že jsem už v důchodu, nebydlím ve velkém městě a mám vlastní dům. Jak odpovídáte lidem, kteří nejsou spokojeni s tím, co jim v kalkulačce vyšlo?**
 
 Každá věda pozoruje skutečnost a na jejím základě vytváří nějaký model. Ten model je tak podrobný, jak je potřeba. Když jste architekt a navrhujete urbanistický koncept nové čtvrti, nepotřebujete přesně vědět, jak vypadá každý jednotlivý pokoj nebo šuplík.
@@ -60,7 +62,7 @@ Když jsme si stanovili tyto štěpící linie, hledali jsme ke každé otázku 
 
 V otázce životního prostředí už si lidé připouštějí, že je to problém, ale nehledají ještě příliš intenzivně jeho řešení. Z jiných výzkumů například víme, že značná část veřejnosti má v hlavě pořád oddělené kapitoly „klimatická změna“ a „sucho“. Takže očekávám, že postoje k životnímu prostředí se budou v nejbližší budoucnosti dynamicky vyvíjet, krystalizovat a může to být brzy téma daleko výbušnější, než je dnes.
 
-## Kdo se zajímá o politiku?
+## Kdo se zajímá o politiku
 
 **Zjišťovali jste také zájem lidí o politiku. Dvě vyšší střední třídy ji sledují více, ale ani tady nejsou ještě rozdíly dramatické. Je tedy zájem o politiku něco, co nás spojuje?**
 
@@ -122,7 +124,7 @@ Zároveň jsou tyhle představy zjednodušující: hodně lidí si například m
 
 Paradoxní je, že místo aby se lidé pokoušeli sami něco zlepšit, z dlouhodobých výzkumů víme, že drtivá většina české populace vnímá především celostátní politiku jako něco špinavého, od čeho by se měli distancovat. Symbolická bariéra toho, že když se politicky angažujete, například vstoupíte do politické strany a příbuzní nebo kamarádi se vám za to budou posmívat, je tak velká, že to prostě neuděláte. Z toho potom plyne dlouhodobý nedostatek leadershipu a silná poptávka po něm, i když takhle by to asi řekl jen někdo z nastupující kosmopolitní třídy.
 
-## Poptávka po šéfovi
+## Příběh ušitý Čechům na míru
 
 **Jak do toho potom zapadají volební výsledky hnutí ANO, jehož lídr se prezentuje jako akceschopný manažer, který chce řídit stát jako firmu?**
 
@@ -194,7 +196,7 @@ To ale nijak nesnižuje vaši lidskou kvalitu. Nemusíme se přece všichni zaj�
 
 <div class="chart1" id="r01_i3"></div>
 
-Vstřícnější postoj k migraci je jednoznačně spojený s lidským kapitálem, tedy se schopností pracovat s počítačem a se znalostí západních jazyků. Ta je samozřejmě propojená s častějšími cestami do zahraničí, se schopností zorientovat se i v cizojazyčných zdrojích, případně i s tím, že pak tito lidé mají v zahraničí i osobní  kontakty. To lze jinak říct jen o naprosto marginálním procentu české populace.
+Vstřícnější postoj k migraci je jednoznačně spojený s lidským kapitálem, tedy se schopností pracovat s počítačem a se znalostí západních jazyků. Ta je samozřejmě propojená s častějšími cestami do zahraničí, se schopností zorientovat se i v cizojazyčných zdrojích, případně i s tím, že pak tito lidé mají v zahraničí i osobní  kontakty.
 
 **Takže celkově nejsme rozdělená společnost, ale v obavách z migrace je to kosmopolitní třída versus všichni ostatní?**
 
@@ -205,7 +207,7 @@ Ten problém je opravdu hluboký a jediné, na čem se širší veřejnost shodn
 ## Nepřesvědčovat přesvědčené
 **Když si zkusíme postoje Češek a Čechů rozdělit i pomocí jiných ukazatelů, než je příslušnost k jedné ze společenských tříd, kde vznikají největší názorové rozdíly?**
 
-V našich analýzách se ukazuje, že nejsilnější vliv má kombinace dvou faktorů: věku a vzdělání. To znamená, že nejvíce odlišné postoje ve většině otázek mají lidé mladší s vysokoškolským vzdělání a lidé z nejvyšší věkové kategorie se základním vzděláním. Někde hraje větší roli věk, někde vzdělání, ale když oba údaje zkombinujeme, vzájemně se posilují a projevují se výrazně téměř u všech štěpících linií.
+Pohled skrze třídy se ukazuje jako silný. Výrazná je ale také kombinace faktorů věk a vzdělání. Nejvíce odlišné postoje ve většině otázek mají lidé mladší s vysokoškolským vzdělání a lidé z nejvyšší věkové kategorie se základním vzděláním. Někde hraje větší roli věk, někde vzdělání, ale když oba údaje zkombinujeme, vzájemně se posilují a projevují se výrazně téměř u všech štěpících linií.
 
 Další silný faktor je lidský kapitál, tedy především znalost cizích jazyků a počítačů. Významnou roli hraje zejména u kulturních otázek, jako jsou obavy z budoucnosti, vnímání nerovností, obavy z migrace, patriotismus, spokojenost s vývojem společnosti nebo orientace na Západ. Když se podíváme na největší extrémy, můžeme říct, že lidský kapitál hraje při formování postojů dokonce silnější roli než kapitál ekonomický, tedy příjem a majetek. Ale jsou to spojené nádoby: kdo má vysoký lidský kapitál, bude mít s vysokou pravděpodobností i nadprůměrný ekonomický kapitál.
 
