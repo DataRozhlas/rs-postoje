@@ -150,6 +150,7 @@ drawChart('r01_h2', 'r01_h2');
 drawChart('r01_n2', 'r01_n2');
 drawChart('r01_lp1', 'r01_lp1');
 drawChart('r01_i2', 'r01_i2');
+drawChart('r01_i3', 'r01_i3');
 
 
 

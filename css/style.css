@@ -23,6 +23,10 @@
 .chart2 {
 }
 
+#kviz {
+    display: none;
+}
+
 .polozka {
     background: #eee;
     border: 1px dotted #ddd;

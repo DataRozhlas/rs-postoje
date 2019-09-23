@@ -30,6 +30,8 @@ Rozdělení společnosti do šesti tříd, stejně jako jakákoli jiná typologi
 
 Jenomže kvalitu typologie neurčuje to, že se v ní každý přesně pozná, ale to, jak je praktická. Jestli nám umožní lépe a objevněji mluvit o celé společnosti. Pro mě je určení tříd mezikrok. Zajímavější jsou následné analýzy a další povídání, které nám takto konstruované společenské třídy umožňují.
 
+<div id="tridy-box"></div>
+
 ## Celospolečenská diagnóza
 **Druhá nejčastější otázka čtenářů je, proč se respondentů ptáte na znalost západních jazyků, a ne třeba na ruštinu. Proč vás zajímá, jak často chodí na rockové koncerty, a ne třeba na jazzové nebo metalové.**
 
@@ -163,6 +165,8 @@ Téměř všichni tedy připouštějí, že nerovnost je problém, ale lidé z r
 
 Tento způsob vykreslování společenské hierarchie pak velmi dobře funguje při hledání společného nepřítele – pak je přece jasné, že je to právě ona mýtická „elita odtržená od běžných lidí“.
 
+## Radši knedlík než vindaloo
+
 **Tématem, které i letos v červnu, kdy jste sbírali data, nejvýrazněji štěpilo českou společnost, je migrace. Jak to, není to už vyřešená věc? Jak jste říkal, debata proběhla, postoje k migraci jsou usazené a nic dramatického se neděje.**
 
 Přesto pro českou veřejnost stále představuje palčivý problém. V roce 2015 vrcholila diskuse o tom, jestli máme přijímat lidi, kteří prchají před válkou, nebo ne. O tom už se dnes nemluví. Migranti mají v očích veřejnosti nálepku lidí, kteří si v Evropě chtějí vydobýt lepší život.
@@ -170,7 +174,6 @@ Přesto pro českou veřejnost stále představuje palčivý problém. V roce 20
 Hlavní mediální příběh je dnes především o migraci z Afriky. Problém je v tom, že skoro vůbec nerozlišuje různé typy migrace. Když se ptáme velmi podrobně na to, jestli by Češi přijali vzdělané lidi ze západní Evropy, drtivá většina lidí říká, že ano.
 
 <div class="chart1" id="r01_i2"></div>
-
 
 **V čem je tedy problém?**
 
@@ -180,7 +183,15 @@ Místní lidé pak vidí na vlastní oči odlišné kulturní vzorce a na sebeme
 
 Debata ve společnosti ale zase není černobílá. Nevede se o tom, jestli přijmeme všechny, nebo vůbec nikoho, ale koho a za jakých podmínek. Spíš se tu projevuje nedůvěra velké části veřejnosti v český stát, že dokáže zájemce o pobyt a práci v Česku správně vybrat.
 
+**Takže obavy z migrace jsou v jádru převlečený strach z neznámého?**
+
+Když něčemu nerozumíme, tak tomu nedůvěřujeme. Je to jako s exotickou kuchyní. Dokud nepoznáte exotické kuchyně, budete k nim mít spíše nedůvěru a dáte si radši knedlík.
+
+To ale nijak nesnižuje vaši lidskou kvalitu. Nemusíme se přeci všichni zajímat o velký svět, o to, co se zrovna píše ve Financial Times. Když je čtete, není to jen intelektuální hříčka, která signalizuje, že máte přebytek volného času? Můžete být přeci expertem i v jiných otázkách. Třeba místo snahy o pochopení globalizovaného světa ten čas radši investujete své rodiny, do poznávání a zvelebování svého nejbližšího okolí, do společenského života v obci. Proč by se měl každý zajímat zrovna o celosvětovou politiku, kterou objektivně nemůžete nijak ovlivnit?
+
 **Z odpovědí na otázky kolem migrace je vidět, že se ze společenského konsensu výrazně vyděluje nastupující kosmopolitní třída. Souvisí to s tím, že je to vlastně jediná část společnosti, která má s cizinci bližší osobní zkušenost, domluví se s nimi, často studovala nebo pracovala v zahraničí?**
+
+<div class="chart1" id="r01_i3"></div>
 
 Vstřícnější postoj k migraci je jednoznačně spojený s lidským kapitálem, tedy se schopností pracovat s počítačem a se znalostí západních jazyků. Ta je samozřejmě propojená s častějšími cestami do zahraničí, se schopností zorientovat se i v cizojazyčných zdrojích, případně i s tím, že pak tito lidé mají v zahraničí i osobní  kontakty. To lze jinak říct jen o naprosto marginálním procentu české populace.
 
@@ -190,33 +201,24 @@ Kosmopolitní třída a část zajištěné střední třídy vlastně jen řík
 
 Ten problém je opravdu hluboký a jediné, na čem se širší veřejnost shodne, je proklamace „pojďme pomáhat v místech, kde ty problémy vznikají“. Jenže když se pak podíváte na rozpočty naší zahraniční a rozvojové pomoci, zjistíte, že spíš klesá, než že by stoupela.
 
-XXX
-
-Je to jako s kuchyní. Když něčemu nerozumíme, tak tomu nedůvěřujeme. Dokud nepoznáte exotické kuchyně, budete k nim mít spíše nedůvěru a dáte si radši knedlík. To ale nijak nesnižuje vaši lidskou kvalitu. Nemusíte se zajímat o velký svět a o to, co se zrovna píše ve Financial Times. Není to jen intelektuální hříčka, která signalizuje, že máte přebytek volného času? Můžete být expertem i v jiných otázkách. Třeba místo snahy o pochopení globalizovaného světa radši investujete čas do své rodiny a do poznávání nejbližšího okolí, do společenského života v obci. Proč byste se musel zajímat zrovna o celosvětovou politiku, kterou objektivně nemůžete nijak ovlivnit. 
-
-Když si zkusíme postoje Češek a Čechů rozdělit i pomocí jiných ukazatelů než je příslušnost k jedné ze společenských tříd, kde vznikají největší názorové rozdíly?
+## Nepřesvědčovat přesvědčené
+**Když si zkusíme postoje Češek a Čechů rozdělit i pomocí jiných ukazatelů než je příslušnost k jedné ze společenských tříd, kde vznikají největší názorové rozdíly?**
 
 V našich analýzách se ukazuje, že nejsilnější vliv má kombinace dvou faktorů: věku a vzdělání. To znamená, že nejvíce odlišné postoje ve většině otázek mají lidé mladší s vysokoškolským vzdělání a lidé z nejvyšší věkové kategorie se základním vzděláním. Někde hraje větší roli věk, někde vzdělání, ale když obě údaje zkombinujeme, vzájemně se posilují a projevují se výrazně téměř u všech štěpících linií. 
 
-Další silný faktor je lidský kapitál (tedy především znalost cizích jazyků a počítačů – pozn. red.), který hraje silnou roli zejména u kulturních otázek, jako jsou obavy z budoucnosti, vnímání nerovností, obavy z migrace, patriotismus, spokojenost s vývojem společnosti nebo orientace na Západ. Když se podíváme na největší extrémy, můžeme říct, že lidský kapitál hraje při formování postojů dokonce silnější roli než kapitál ekonomický, tedy příjem a majetek. Ale jsou to spojené nádoby: Kdo má vysoký lidský kapitál, bude mít s vysokou pravděpodobností i nadprůměrný ekonomický kapitál.
+Další silný faktor je lidský kapitál, tedy především znalost cizích jazyků a počítačů. Významnou roli hraje zejména u kulturních otázek, jako jsou obavy z budoucnosti, vnímání nerovností, obavy z migrace, patriotismus, spokojenost s vývojem společnosti nebo orientace na Západ. Když se podíváme na největší extrémy, můžeme říct, že lidský kapitál hraje při formování postojů dokonce silnější roli než kapitál ekonomický, tedy příjem a majetek. Ale jsou to spojené nádoby: Kdo má vysoký lidský kapitál, bude mít s vysokou pravděpodobností i nadprůměrný ekonomický kapitál.
 
-Máte nějaký praktický návod, jak komunikovat s lidmi z jiných částí společnosti, aby výsledkem nebyla blbá nálada na obou stranách?
+**Máte nějaký praktický návod, jak komunikovat s lidmi z jiných částí společnosti, aby výsledkem nebyla blbá nálada na obou stranách?**
 
-Často děláme i po třiceti letech demokracie začátečnickou chybu, neumíme moc dobře vést dialog. Máme tendenci druhou stranu poučovat, ať už starší mladšího, vzdělanější míň vzdělaného, expert jiného experta. A debatu zahajujeme často s tím, že chceme druhého přesvědčit o našem pohledu na věc, ale málokdy si připouštíme, že by druhá strana mohla o něčem přesvědčit nás.
+Často děláme i po třiceti letech demokracie začátečnickou chybu: Máme tendenci druhou stranu poučovat. A debatu zahajujeme často s tím, že chceme druhého přesvědčit o našem pohledu na věc, ale vůbec si nepřipouštíme, že by druhá strana mohla o něčem přesvědčit nás.
 
-To, že mají různí lidé různé názory, je přirozené. Nebezpečný je moment, kdy se názorové skupiny začnou zapouzdřovat a přestávají mezi sebou komunikovat. Dokud se vede diskuse, byť i velmi bouřlivá, padají skutečné argumenty a ne zástupné nebo útoky ad hominem, je to v pořádku.
+To, že mají různí lidé různé názory, je přirozené. Nebezpečný je moment, kdy se názorové skupiny začnou zapouzdřovat a přestávají mezi sebou komunikovat. Dokud se vede diskuse, byť i velmi bouřlivá, je to v pořádku.
 
-Poučování, nezájem o dialog, zapouzdřování názorových skupin - z toho vzniká dojem rozdělené společnosti. Spousta lidí nemá úplně vyhraněný názor na všechny dimenze nepřeberně složitého společesnkého života. Intelektuální elity kladou velký důraz na veřejná témata a menší důraz na osobní témata.
+Ale z poučování, nezájmu o dialog a zapouzdřování názorových skupin vzniká dojem rozdělené společnosti. Přitom spousta lidí nemá na všechny dimenze nepřeberně složitého společesnkého života úplně vyhraněný názor. Když se podíváme do dat, žádné dvě strany zastávající zcela protichůdné názory v nich nevidím. Jsou to jednotky nebo desítky procent, kteří jsou díky svým životním zkušenostem a sociálnímu ukotvení trochu jinak nastavení.
 
-To se potom v nějakém zkratkovitém zjednodušení dobře využívá v politické komunikaci, která ráda ukazuje ty ostatní jako ty zlé. Čím míň se známe, tím víc to funguje. 
+To se potom v nějakém zkratkovitém zjednodušení dobře využívá v politické komunikaci, která ráda ukazuje ty ostatní jako ty zlé. Čím míň se známe, tím víc to funguje.
 
-Je tady celá řada věcí o kterých by se mělo diskutovat. Je to pro nás varování: nezastávejme absolutní postoje, neukazujme zbytečně extrémy, které tady vlastně nikdo moc nezastává. Lidéí, kteří ve složitých otázkách nemají úplně jasno se pak kvůli polarizované veřejnéí debatě často přikloní k tomu, komu nejvíc důvěřují ze svého bezprostředního okolí. To vytváří zdánlivou propast rozdělené společnosti. Ale když se podíváme do dat, žádné dvě strany zastávající zcela protichůdné názory v nich nevidím. Jsou to jednotky nebo desítky procent, kteří jsou díky svým životním zkušenostem a sociálnímu ukotvení trochu jinak nastavení.
-
-Demokracie není o tom usilovat o jednotnost. Jde o to usilovat o dialog a navzájem se respetovat.
-
-Praktický návod?
-
-Nepřesvědčujte přesvědčené, víc výzkumů, když jdete do diskuse s tím, že musíte druhého přesvědčit o své pravdě a sami neustoupíte ani o pí'D, TEN DRUHÝ PRAVDĚPODOBNĚ dělá to samé a taková diskuse je zbytečná, jenom se pohádáte. Snažme se pochodit lidi v jejich sociálním kontextu. kam se narodili, v čem vyrostli, jaké řeší problémy,. Z toho vyrůstají jejich obavy či názory.
+*Všechny otázky z postojové části výzkumu Česká spolešnost po třiceti letech, si můžete projít v interaktivním grafu:*
 
 <wide>
 <div id="seldiv"></div>
@@ -224,5 +226,3 @@ Nepřesvědčujte přesvědčené, víc výzkumů, když jdete do diskuse s tím
 </wide>
 
 <div id="kviz"></div>
-
-<div id="tridy-box"></div>
