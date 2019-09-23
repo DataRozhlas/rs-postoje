@@ -101,6 +101,7 @@ teplomerList.addEventListener('click', (e) => {
         e.target.classList.add('vybrano');
         kresliGraf(e.target.childNodes[0].textContent);
     }
+    location.hash = "graf-kotva";
 });
 
 //kresli první graf

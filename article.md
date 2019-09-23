@@ -13,6 +13,7 @@ _Například téma **Obavy z migrace** se skládá z odpovědí na tři otázky:
 
 _Výsledky pak vědci přepočítali na „teploměry“. Ty ukazující index vnímání tématu různými skupinami veřejnosti, tedy sílu jejich postojů. Teploměry mohou ukazovat hodnoty od +100 do -100 podle toho, jak moc členy společenské třídy daný problém pálí nebo jak jednoznačný názor na něj mají._
 
+<div id="graf-kotva"></div>
 <wide>
 <h2>Jaká témata rozdělují společnost – seřazeno od nejvíc po nejmíň polarizující</h2>
 <div id="container">

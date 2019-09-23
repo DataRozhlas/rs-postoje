@@ -18,9 +18,15 @@
 }
 
 .chart1 {
+  width: 100%;
 }
 
-.chart2 {
+#seldiv {
+  width: 100%;
+}
+
+#q-sel {
+  width: 100%;
 }
 
 #kviz {
@@ -396,6 +402,9 @@ html {
   }
   
   @media only screen and (max-width: 600px) {
+    .chart1 {
+      height: 150vh;
+    }
     .quiz-container {
       min-height: 670px;
     }
