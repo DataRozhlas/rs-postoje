@@ -1,10 +1,10 @@
 title: "18 štěpících linií v české společnosti: podívejte se, co nás nejvíc rozděluje a co spojuje"
 perex: "Čechy a Češky z různých společenských tříd nejvíc odlišují postoje k migraci, názory na prozápadní směřování země a vnímání nerovností ve společnosti – tedy zda si myslí, že je každý svého štěstí strůjcem, nebo jestli o úspěchu rozhoduje něco jiného než vlastní píle a šikovnost. „Málokdo ale zastává vyhraněné černobílé postoje. Spíš jsme společnost mnoha odstínů šedi, tedy rozdělovaná, nikoli rozdělená společnost,“ říká nad daty z výzkumu <a href='https://www.irozhlas.cz/rozdeleni-svobodou'>Česká společnost po třiceti letech</a> jeho spoluautor, ředitel agentury STEM Martin Buchtík."
-coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
-coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
+coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/buchtik_5_190923-194310_mda.jpg
+coverimg_note: "Martin Buchtík: Nebezpečné je, když se názorové skupiny začnou zapouzdřovat. | Foto: Micheala Danelová"
 styles: []
 libraries: [highcharts] #jquery, d3, highcharts, datatables
-options: [noheader, nopic] #wide, noheader (, nopic)
+options: [noheader] #wide, noheader (, nopic)
 ---
 
 <em>Sociologové zkoumali štěpící linie pomocí <a href="#postoje">dvaatřiceti otázek</a> rozdělených do osmnácti tematických skupin.</em>
@@ -82,7 +82,6 @@ Proto se také výzkum nedělá na deseti lidech, ale v tomto případě na víc
 <right>
 <img src="https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/rozdeleni_svobodou_l_190916-172827_zlo.png" width="100%">
 <p>Článek, který čtete, je druhý díl seriálu, který na serveru iROZHLAS.cz vychází vždy v úterý.</p>
-<p>Příští díl bude o tom, koho zástupci různých tříd volili v minulých prezidentských i sněmovních volbách.</p>
 <p>První díl: <a href="https://www.irozhlas.cz/zpravy-domov/ceska-spolecnost-vyzkum-tridy-kalkulacka_1909171000_zlo">Česká společnost se nedělí na dva tábory, ale do šesti tříd. Zjistěte, do které patříte vy</a></p>
 <p>Další rozhovory, reportáže a analýzy můžete sledovat <a href="https://www.irozhlas.cz/rozdeleni-svobodou">na serveru iROZHLAS.cz</a>, ve vysílání <a href="https://radiozurnal.rozhlas.cz/">Radiožurnálu</a> a <a href="https://plus.rozhlas.cz/">Českého rozhlasu Plus</a>.
 </right>
@@ -256,7 +255,7 @@ Další silný faktor je lidský kapitál, tedy především znalost cizích jaz
 
 To, že mají různí lidé různé názory, je přirozené. Nebezpečný je moment, kdy se názorové skupiny začnou zapouzdřovat a přestávají mezi sebou komunikovat. Dokud se vede diskuse, byť i velmi bouřlivá, je to v pořádku.
 
-Ale z poučování, nezájmu o dialog a zapouzdřování názorových skupin vzniká dojem rozdělené společnosti. Přitom spousta lidí nemá na všechny dimenze nepřeberně složitého společenského života úplně vyhraněný názor. Když se podíváme do dat, žádné dvě strany zastávající zcela protichůdné názory v nich nevidím. Jsou to jednotky nebo desítky procent lidí, kteří jsou díky svým životním zkušenostem a sociálnímu ukotvení trochu jinak nastavení.
+Ale z poučování, nezájmu o dialog a zapouzdřování názorových skupin vzniká dojem rozdělené společnosti. Přitom spousta lidí nemá na všechny dimenze nepřeberně složitého společenského života úplně vyhraněný názor. Když se podívám do dat, žádné dvě strany zastávající zcela protichůdné názory v nich nevidím. Jsou to jednotky nebo desítky procent lidí, kteří jsou díky svým životním zkušenostem a sociálnímu ukotvení trochu jinak nastavení.
 
 To se potom v nějakém zkratkovitém zjednodušení dobře využívá v politické komunikaci, která ráda ukazuje ty ostatní jako ty zlé. Čím míň se známe, tím víc to funguje.
 
