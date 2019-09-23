@@ -137,10 +137,23 @@ function drawChart(q, divid) {
   });  
 };
 
-drawChart('r01_i1', 'postoje')
 // embedy mimo hlavní graf
-drawChart('r01_z3', 'r01_z3') // id otázky, pak id divu
+drawChart('r01_z3', 'r01_z3'); // id otázky, pak id divu
+drawChart('r01_np1', 'r01_np1');
+drawChart('r01_e2', 'r01_e2');
+drawChart('r01_zj1', 'r01_zj1');
+drawChart('r01_a2', 'r01_a2');
+drawChart('r01_m2', 'r01_m2');
+drawChart('r01_pol1', 'r01_pol1');
+drawChart('r01_pos1', 'r01_pos1');
+drawChart('r01_h1', 'r01_h1');
+drawChart('r01_h2', 'r01_h2');
+drawChart('r01_n2', 'r01_n2');
 
+
+
+
+drawChart('r01_i1', 'postoje');
 document.getElementById('q-sel').onchange = function(){
   drawChart(this.selectedOptions[0].value, 'postoje')
 };

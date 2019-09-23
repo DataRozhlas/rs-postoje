@@ -58,8 +58,8 @@ const kresliGraf = (data) => {
             crosshair: true
         },
         yAxis: {
-            max: 60,
-            min: -60,
+            max: 70,
+            min: -70,
             title: {
                 text: 'index vnímání tématu veřejností'
             }
