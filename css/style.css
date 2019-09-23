@@ -3,7 +3,10 @@
         flex-wrap: wrap;
     }
 }
-
+.vysvetlivka {
+    font-size: 80%;
+    font-style: italic;
+}
 #container {
     display: flex;
     flex-direction: row-reverse;
