@@ -105,7 +105,7 @@ V otázce životního prostředí už si lidé připouštějí, že je to probl�
 
 U této otázky je mnohem zajímavější rozdíl v odpovědích mužů a žen. Je to jediná otázka z našeho výzkumu, kde je tak dramatický. Zájem žen o domácí politiku a o mezinárodní události je výrazně nižší než zájem mužů, také s nižším věkem a nižším vzděláním se snižuje. Když všechny faktory zkombinujeme, můžeme říct, že mladé ženy s nízkým vzděláním se o politiku zajímají zcela výjimečně, kdežto starší vzdělaní muži skoro všichni.
 
-**Uprostřed tabulky témat seřazených podle toho, jak společnost spojují nebo rozdělují, je téma Společnost stojící na autoritě – silný vůdce, přizpůsobení se. Zástupci všech tříd se shodli, že „školy by měly děti učit uznávat autoritu“, a že „příslušníci menšin by se měli přizpůsobit českým zvykům a tradicím“. Větší rozdíly už jsou u otázky, zda „silný vůdce je důležitý pro Českou republiku, i když nebude vždy jednat v souladu se zavedenými pravidly“. Nadpoloviční většina příslušníků nejnižší, strádající třídy, odpověděla kladně.**
+**Větší rozdíly už jsou u otázky, zda „silný vůdce je důležitý pro Českou republiku, i když nebude vždy jednat v souladu se zavedenými pravidly“. Nadpoloviční většina příslušníků nejnižší, strádající třídy, odpověděla kladně.**
 
 <div class="chart1" id="r01_a2"></div>
 
@@ -148,13 +148,11 @@ Osobně si myslím, že pokud budeme v médiích potvrzovat domněnku, že spole
 
 Je to jednoznačně tak. Společnost jako celek hodnotí posledních třicet let zhruba půl na půl, ovšem čím horší společenské postavení člověk má, tím je k vývoji po roce 1989 kritičtější.
 
-Zajímavé je mezigenerační předávání společenského postavení. To, do jaké třídy budete patřit, i v České republice nejvíc ovlivňuje, do jakého prostředí se narodíte. Příběhy úspěchu i neúspěchu se přenášejí z rodičů na děti. Hodně mladých lidí na začátku kariéry má dnes silný pocit, že nemají stejné šance jako o generaci starší lidé, kteří už jsou úspěšní nebo jejichž rodiče byli úspěšní.
+Zajímavé je mezigenerační předávání společenského postavení. To, do jaké třídy budete patřit, i v České republice vyplývá nejvíc z toho, do jakého prostředí se narodíte. Příběhy úspěchu i neúspěchu se přenášejí z rodičů na děti. Hodně mladých lidí na začátku kariéry má dnes silný pocit, že nemají stejné šance jako o generaci starší lidé, kteří už jsou úspěšní nebo jejichž rodiče byli úspěšní.
 
 <div class="chart1" id="r01_h2"></div>
 
 Druhá otázka zkoumající toto téma ukazuje převažující pocit, že se sice nemáme špatně, ale kroky politické reprezentace v posledních třiceti letech jsou série promarněných příležitostí: vy politici jste nám na začátku devadesátých let slibovali, že brzy doženeme Německo. A podívejte se, Německo se nám nepřibližuje a z druhé strany nás úspěšně dohání Slovensko.
-
-Zároveň jsou tyhle představy zjednodušující: hodně lidí si například myslí, že mnozí čeští premiéři byli neschopní. Tak to ale není, stát se předsedou vlády v našem systému není nic jednoduchého a už to, že se to těmto lidem podařilo, ukazuje, že alespoň v něčem velmi schopní jsou.  
 
 Paradoxní je, že místo aby se lidé pokoušeli sami něco zlepšit, z dlouhodobých výzkumů víme, že drtivá většina české populace vnímá především celostátní politiku jako něco špinavého, od čeho by se měli distancovat. Symbolická bariéra toho, že když se politicky angažujete, například vstoupíte do politické strany a příbuzní nebo kamarádi se vám za to budou posmívat, je tak velká, že to prostě neuděláte. Z toho potom plyne dlouhodobý nedostatek leadershipu a silná poptávka po něm, i když takhle by to asi řekl jen někdo z nastupující kosmopolitní třídy.
 
