@@ -105,7 +105,7 @@ teplomerList.addEventListener('click', (e) => {
         kresliGraf(e.target.childNodes[0].textContent);
     }
     if (screen.width < 600) { //odskok na graf pouze na mobilu
-        location.hash = "graf-kotva";
+        document.getElementById("graf-kotva").scrollIntoView(); 
     }
 });
 
