@@ -1,7 +1,7 @@
 title: "18 štěpících linií v české společnosti: podívejte se, co nás nejvíc rozděluje a co spojuje"
 perex: "Čechy a Češky z různých společenských tříd nejvíc odlišují postoje k migraci, názory na prozápadní směřování země a vnímání nerovností ve společnosti – tedy zda si myslí, že je každý svého štěstí strůjcem, nebo jestli o úspěchu rozhoduje něco jiného než vlastní píle a šikovnost. „Málokdo ale zastává vyhraněné černobílé postoje. Spíš jsme společnost mnoha odstínů šedi, tedy rozdělovaná, nikoli rozdělená společnost,“ říká nad daty z výzkumu <a href='https://www.irozhlas.cz/rozdeleni-svobodou'>Česká společnost po třiceti letech</a> jeho spoluautor, ředitel agentury STEM Martin Buchtík."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_medium/public/uploader/buchtik_5_190923-194310_mda.jpg
-coverimg_note: "Martin Buchtík: Nebezpečné je, když se názorové skupiny začnou zapouzdřovat. | Foto: Micheala Danelová"
+coverimg_note: "Martin Buchtík: Nebezpečné je, když se názorové skupiny začnou zapouzdřovat. | Foto: Michaela Danelová"
 styles: []
 libraries: [highcharts] #jquery, d3, highcharts, datatables
 options: [noheader] #wide, noheader (, nopic)
@@ -37,7 +37,9 @@ Rozdělení společnosti do šesti tříd, stejně jako jakákoli jiná typologi
 
 Jenomže kvalitu typologie neurčuje to, že se v ní každý přesně pozná, ale to, jak je praktická. Jestli nám umožní lépe a objevněji mluvit o celé společnosti. Pro mě je určení tříd mezikrok. Zajímavější jsou následné analýzy a další povídání, které nám takto konstruované společenské třídy umožňují.
 
+<link href="https://data.irozhlas.cz/tridy-model/box_standalone/css/style.css" rel="stylesheet">
 <div id="tridy-box"></div>
+<script src="https://data.irozhlas.cz/tridy-model/box_standalone/output.js"></script>
 
 ## Celospolečenská diagnóza
 **Druhá nejčastější otázka čtenářů je, proč se respondentů ptáte na znalost západních jazyků, a ne třeba na ruštinu. Proč vás zajímá, jak často chodí na rockové koncerty, a ne třeba na jazzové nebo metalové.**  
@@ -76,14 +78,16 @@ A webová kalkulačka je popularizační nástroj. Může se stát, že někter�
 Proto se také výzkum nedělá na deseti lidech, ale v tomto případě na více než čtyřech tisících, abychom dosáhli robustního výběrového souboru a výzkum jako celek byl statisticky relevantní a odpovídal skutečnosti.
 
 **Část výzkumu, o které si dnes povídáme, sestává z baterie dvaatřiceti otázek, které měly zjistit postoje lidí k osmnácti potenciálním štěpícím liniím, které mohou rozdělovat – anebo naopak spojovat – českou společnost. Jak jste je vybírali?**  
-Všichni autoři výzkumu, tedy Daniel Prokop, Paulína Tabery i já se dlouhodobě v dílčích výzkumech zabýváme tím, jak je společnost rozdělovaná, jaká jsou nejčastější témata, na nichž se veřejné mínění štěpí, o nichž se vede veřejná debata i ty, o nichž se moc nemluví, a přesto na ně mají lidé často odlišné názory.
 
 <left>
 <a href="https://www.irozhlas.cz/rozdeleni-svobodou"><img src="https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/rozdeleni_svobodou_l_190916-172827_zlo.png" width="100%"></a>
-<p>Seriál vychází na serveru iROZHLAS.cz vždy v úterý.</p>
+<p>Tento článek je druhým dílem seriálu, který vychází na serveru iROZHLAS.cz vždy v úterý.</p>
 <p>První díl: <a href="https://www.irozhlas.cz/zpravy-domov/ceska-spolecnost-vyzkum-tridy-kalkulacka_1909171000_zlo">Česká společnost se nedělí na dva tábory, ale do šesti tříd. Zjistěte, do které patříte vy</a></p>
+<p>Třetí díl: <a href="https://www.irozhlas.cz/zpravy-domov/rozdeleni-svobodou-data-elity-paulina-tabery-duvera_1910010600_zlo">Nejvíc se straní společnosti strádající třída, Čechům vadí drogově závislí a muslimové</a></p>
 <p>Další rozhovory, reportáže a analýzy můžete sledovat <a href="https://www.irozhlas.cz/rozdeleni-svobodou">na serveru iROZHLAS.cz</a>, ve vysílání <a href="https://radiozurnal.rozhlas.cz/">Radiožurnálu</a> a <a href="https://plus.rozhlas.cz/">Českého rozhlasu Plus</a>.
 </left>
+
+Všichni autoři výzkumu, tedy Daniel Prokop, Paulína Tabery i já se dlouhodobě v dílčích výzkumech zabýváme tím, jak je společnost rozdělovaná, jaká jsou nejčastější témata, na nichž se veřejné mínění štěpí, o nichž se vede veřejná debata i ty, o nichž se moc nemluví, a přesto na ně mají lidé často odlišné názory.
 
 Například o migraci se v posledních letech intenzivně debatuje, ale o autoritářství, tedy jestli máme mít a poslouchat silné vůdce, se v českém prostoru debata moc nevede. O sociálních nerovnostech se vede dílčím způsobem, takže pro velkou část společnosti může být skrytá za nějakým zástupným tématem.
 
